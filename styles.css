@@ -1,5 +1,6 @@
 .pokemon-card {
   background-color: rgb(255, 165, 217);
   padding: 10px 1px 100px 50px;
+  width: 200px;
   border-radius: 8px;
 }

@@ -23,3 +23,14 @@ function createPokemonCard(pokemon) {
 
   return articleElement;
 }
+
+const template = `
+    <article class="pokemon-card">
+        <p>Name: Tinkaton</p>
+        <p>Type: Fairy Steel</p>
+        <div>
+          <p>Shape:</p> 
+          <img id="data.js/Shape" src="https://archives.bulbagarden.net/media/upload/c/cc/Body08.png">
+        </div>
+      </article>
+`;
