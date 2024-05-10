@@ -4,3 +4,18 @@
   width: 200px;
   border-radius: 8px;
 }
+
+.button-fairy {
+  background-color: rgb(242, 78, 195);
+  border-radius: 6px;
+  border-color: transparent;
+  
+}
+
+.button-steel {
+  background-color: rgb(144, 206, 206);
+  border-radius: 6px;
+  border-color: transparent;
+}
+
+.flex {display:flex;}
